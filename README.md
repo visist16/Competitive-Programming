@@ -130,3 +130,4 @@ If you have any questions about the solutions you can find here, feel free to co
 49. Heavy Light Decomposition
 50. FFT/NTT
 
+If you need more material like this, [nominate me as github start, to get help the project to gain more visibility and contributions](https://stars.github.com/program/)
